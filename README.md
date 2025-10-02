@@ -86,7 +86,7 @@ Prerequisites
 
 Installation
 
-git clone https://github.com/YourUsername/firefly.git
+git clone https://github.com/Sai-Deepan/firefly
 cd firefly
 
 Backend Setup:
